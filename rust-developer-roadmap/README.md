@@ -5,7 +5,7 @@
 
 ## 路线图
 
-![Roadmap](./rust-web-developer-roadmap.png)
+![Roadmap](./rust-developer-roadmap.png)
 
 ## 资源
 
