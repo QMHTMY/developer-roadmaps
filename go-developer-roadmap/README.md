@@ -1,6 +1,6 @@
 # Go 开发者成长路线图
 
-> 在 2021 年 成为一名 [Go](https://golang.org/) 开发者。在下边有一个路线图，如果你想要成为一名Go语言的开发者的话，你可以沿着这张图里面的路径去学习，里面记录了一些你可能也想学习的库。
+> 在 2022 年 成为一名 [Go](https://golang.org/) 开发者。在下边有一个路线图，如果你想要成为一名Go语言的开发者的话，你可以沿着这张图里面的路径去学习，里面记录了一些你可能也想学习的库。
 ------
 
 ## 路线图
@@ -42,6 +42,7 @@
       - [PostgreSQL](https://www.postgresql.org/)
       - [MariaDB](https://mariadb.org/)
       - [MySQL](https://www.mysql.com/)
+      - [TiDB](https://github.com/pingcap/tidb)
       - [CockroachDB](https://www.cockroachlabs.com/)
    2. 云数据库
       - [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db)

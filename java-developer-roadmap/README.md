@@ -1,6 +1,6 @@
 # Java 开发者成长路线图
 
-> 在 2021 年成为一名 Java 开发者。下面有一个路线图，如果你想要成为一名 Java 语言的开发者的话，你可以沿着这张图里面的路径去学习，里面记录了一些你可能也想学习的库。
+> 在 2022 年成为一名 Java 开发者。下面有一个路线图，如果你想要成为一名 Java 语言的开发者的话，你可以沿着这张图里面的路径去学习，里面记录了一些你可能也想学习的库。
 ----
 
 ## 路线图
@@ -45,7 +45,8 @@
       2. [PostgreSQL](https://www.postgresql.org/)
       3. [MariaDB](https://mariadb.org/)
       4. [MySQL](https://www.mysql.com/)
-      5. [Oracle](https://www.oracle.com/database/)
+      5. [TiDB](https://github.com/pingcap/tidb)
+      6. [Oracle](https://www.oracle.com/database/)
    2. 云数据库
       - [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db)
       - [DynamoDB](https://aws.amazon.com/dynamodb/)
